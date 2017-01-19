@@ -24,8 +24,8 @@
 ## 1. start
 
 ```
-$ git clone git@github.com:GuoYongfeng/webpack-dev-boilerplate.git
-$ cd webpack-dev-boilerplate
+$ git clone git@github.com:ceilory/comment-page.git
+$ cd comment-page
 $ npm install
 ```
 ## 2. dev
@@ -51,15 +51,3 @@ $ npm run test:watch
 $ npm run build
 ```
 
-## 3. 技术栈
-
-- [x] [Webpack](https://webpack.github.io)
-- [x] [React](https://facebook.github.io/react/)
-- [x] [ES6](http://es6.ruanyifeng.com/)
-- [ ] [Redux](https://github.com/rackt/redux)
-- [x] [React-router](https://github.com/rackt/react-router-redux)
-- [x] [Babel](https://babeljs.io/)
-- [ ] [Autoprefixer](https://github.com/postcss/autoprefixer)
-- [ ] [PostCSS](https://github.com/postcss/postcss)
-- [x] [CSS modules](https://github.com/outpunk/postcss-modules)
-- [x] [Eslint](https://github.com/eslint/eslint)
